@@ -1,5 +1,5 @@
 # CompileBot
-Discord bot for comiling and running code
+Discord bot for compiling and running code
 
 
 | Functie               | Naam          | 
